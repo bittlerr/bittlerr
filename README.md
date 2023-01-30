@@ -1,8 +1,6 @@
 # master
 demiurge
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bittlerr&show_icons=true&hide_title=true&count_private=true&bg_color=0d1117&border_color=30363d&icon_color=3fb950&theme=vue-dark)](https://github.com/bittlerr)
-
 ### Languages & Tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
