@@ -1,6 +1,13 @@
 # master
 demiurge
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bittlerr&show_icons=true&hide_title=true&count_private=true&bg_color=0d1117&border_color=30363d&icon_color=3fb950&theme=vue-dark">
+    <img alt="Lerna" src="https://github-readme-stats.vercel.app/api?username=bittlerr&show_icons=true&hide_title=true&count_private=true&bg_color=0d1117&border_color=30363d&icon_color=3fb950&theme=vue" width="480">
+  </picture>
+</p>
+
 ### Languages & Tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
