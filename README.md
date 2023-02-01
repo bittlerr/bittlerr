@@ -4,7 +4,7 @@ demiurge
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bittlerr&show_icons=true&hide_title=true&count_private=true&bg_color=0d1117&border_color=30363d&icon_color=3fb950&theme=vue-dark">
-    <img alt="Lerna" src="https://github-readme-stats.vercel.app/api?username=bittlerr&show_icons=true&hide_title=true&count_private=true&bg_color=0d1117&border_color=30363d&icon_color=3fb950&theme=vue" width="480">
+    <img alt="GitGub Stats" src="https://github-readme-stats.vercel.app/api?username=bittlerr&show_icons=true&hide_title=true&count_private=true&theme=vue" width="480">
   </picture>
 </p>
 
